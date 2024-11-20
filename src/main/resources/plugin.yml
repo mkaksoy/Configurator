@@ -1,0 +1,6 @@
+name: Configurator
+version: 1.0.0
+main: github.mkaksoy.configurator.Main
+description: A simple library for managing plugin configurations
+author: Mehmet Kaan AKSOY
+api-version: '1.21.3'
